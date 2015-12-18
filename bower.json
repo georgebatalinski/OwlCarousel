@@ -6,7 +6,11 @@
   ],
   "version": "1.3.3",
   "description": "fork of owlcarousel",
-  "main": "owl-carousel/owl.carousel.min.js",
+  "main": [
+    "owl-carousel/owl.carousel.min.js",
+    "owl-carousel/owl.carousel.css",
+    "owl-carousel/owl.transitions.css"
+  ],
   "moduleType": [],
   "license": "MIT",
   "ignore": [
