@@ -1,0 +1,21 @@
+{
+  "name": "OwlCarousel",
+  "homepage": "https://github.com/georgebatalinski/OwlCarousel",
+  "authors": [
+    "George Batalinski <george.batalinski@gmail.com>"
+  ],
+  "version": "1.3.3",
+  "description": "fork of owlcarousel",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demos",
+    "assets",
+    "test",
+    "tests"
+  ]
+}
